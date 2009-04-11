@@ -14,10 +14,10 @@
       <option name="WORKING_DIRECTORY" value="$ModuleFilePath$" />
     </exec>
   </tool>
-  <tool name="spec --drb" description="Run spec with the drb option" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" synchronizeAfterRun="true">
+  <tool name="test/spec --drb" description="Run spec with the drb option" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="spec" />
-      <option name="PARAMETERS" value="$FilePath$ --drb" />
+      <option name="COMMAND" value="ruby" />
+      <option name="PARAMETERS" value="~/.RubyMine10/config/lib/focused_test.rb -f $FilePath$ --drb" />
       <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
     </exec>
   </tool>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="custom" parent="$default">
+  <action id="Tool_ruby_Ruby">
+    <keyboard-shortcut first-keystroke="control F11" />
+  </action>
+  <action id="Tool_ruby_focused test/spec">
+    <keyboard-shortcut first-keystroke="alt F11" />
+  </action>
+  <action id="Tool_ruby_focused test/spec --drb">
+    <keyboard-shortcut first-keystroke="shift alt F11" />
+  </action>
+  <action id="Tool_ruby_test/spec --drb">
+    <keyboard-shortcut first-keystroke="shift control F11" />
+  </action>
+</keymap>
+
