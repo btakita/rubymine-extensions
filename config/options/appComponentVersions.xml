@@ -4,7 +4,7 @@
   <component name="CodeStyleSchemes" version="1239476252324" />
   <component name="CodeStyleSettingsManager" version="1239476252325" />
   <component name="DaemonCodeAnalyzerSettings" version="1239476252325" />
-  <component name="DimensionService" version="1239476252325" />
+  <component name="DimensionService" version="1239476884142" />
   <component name="EditorColorsManagerImpl" version="1239476252325" />
   <component name="EditorSettings" version="1239476252327" />
   <component name="Encoding" version="1239476252327" />
@@ -23,11 +23,12 @@
   <component name="ProjectManager" version="1239476252339" />
   <component name="PropertiesComponent" version="1239476252339" />
   <component name="RecentDirectoryProjectsManager" version="1239476252339" />
+  <component name="TemplateSettings" version="1239476884148" />
   <component name="TodoConfiguration" version="1239476252340" />
   <component name="UISettings" version="1239476252341" />
   <component name="UpdatesConfigurable" version="1239476252342" />
   <component name="WebBrowsersConfiguration" version="1239476252342" />
-  <component name="WindowManager" version="1239476252343" />
+  <component name="WindowManager" version="1239476884150" />
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" version="1239476252372" />
 </versions>
 

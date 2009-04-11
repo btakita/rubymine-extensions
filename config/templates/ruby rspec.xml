@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="ruby rspec">
+  <template name="desc" value="describe &quot;$SYSTEM_UNDER_TEST$&quot; do&#10;  $CURSOR$&#10;end" description="desc" toReformat="true" toShortenFQNames="true">
+    <variable name="SYSTEM_UNDER_TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="XML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="RUBY" value="true" />
+      <option name="RHTML" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="it" value="it &quot;$DOES_SOME_COOL_STUFF$&quot;" description="it" toReformat="true" toShortenFQNames="true">
+    <variable name="DOES_SOME_COOL_STUFF" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="XML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="RUBY" value="true" />
+      <option name="RHTML" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="itt" value="it &quot;$DOES_SOMETHING$ do&#10;  $END$&#10;end" description="rspec it with a block" toReformat="false" toShortenFQNames="true">
+    <variable name="DOES_SOMETHING" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="RUBY" value="true" />
+      <option name="RHTML" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="con" value="context &quot;$DESC$&quot; do&#10;  $END$&#10;end" description="context" toReformat="false" toShortenFQNames="true">
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="RUBY" value="true" />
+      <option name="RHTML" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="des" value="describe $SYSTEM_UNDER_TEST$ do&#10;  $CURSOR$&#10;end" description="describe block without quotes" toReformat="true" toShortenFQNames="true">
+    <variable name="SYSTEM_UNDER_TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="XML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JSP" value="false" />
+      <option name="COMPLETION" value="false" />
+      <option name="RUBY" value="true" />
+      <option name="RHTML" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>
+

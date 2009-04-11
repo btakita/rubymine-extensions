@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DimensionService">
+    <location key="#com.intellij.codeInsight.template.impl.EditTemplateDialog.0.0.1920.1200" x="697" y="353" />
     <location key="OptionsEditor.0.0.1920.1200" x="0" y="275" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1200" x="681" y="400" />
     <size key="OptionsEditor.0.0.1920.1200" width="1920" height="600" />
