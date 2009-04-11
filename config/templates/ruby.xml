@@ -33,5 +33,16 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
+  <template name="pfl" value="puts &quot;#{__FILE__}:#{__LINE__}&quot;" description="puts &quot;#{__FILE__}:#{__LINE__}&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="RUBY" value="true" />
+      <option name="RHTML" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
 </templateSet>
 
