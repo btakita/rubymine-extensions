@@ -11,11 +11,13 @@
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1200" x="681" y="400" />
     <location key="#com.intellij.tools.OutputFiltersDialog.0.0.1920.1200" x="747" y="437" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1200" width="635" height="586" />
+    <size key="#com.intellij.codeInsight.template.impl.EditTemplateDialog.0.0.1920.1200" width="526" height="446" />
     <size key="#com.intellij.ide.bookmarks.EditorBookmarksDialog.0.0.1920.1200" width="634" height="276" />
     <size key="#com.intellij.execution.impl.RunDialog.0.0.1920.1200" width="635" height="588" />
     <size key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1200" width="626" height="342" />
     <size key="OptionsEditor.0.0.1920.1200" width="1920" height="602" />
     <size key="#com.intellij.ide.macro.MacrosDialog.0.0.1920.1200" width="426" height="586" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1200" width="534" height="352" />
     <size key="#com.intellij.tools.OutputFiltersDialog.0.0.1920.1200" width="426" height="286" />
   </component>
   <component name="LafManager">

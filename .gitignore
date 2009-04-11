@@ -4,3 +4,4 @@ config/options/gemmanager.xml
 config/options/appComponentVersions.xml
 config/options/applicationLibraries.xml
 config/options/other.xml
+config/options/feature.usage.statistics.xml
