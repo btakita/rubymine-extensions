@@ -4,6 +4,7 @@
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;" />
     <extensionMap>
       <mapping ext="rdoc" type="PLAIN_TEXT" />
+      <mapping ext="gitignore" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DimensionService">
+    <location key="IdeErrosDialog" x="647" y="283" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1200" x="781" y="284" />
     <location key="#com.intellij.ide.bookmarks.EditorBookmarksDialog.0.0.1920.1200" x="643" y="439" />
     <location key="#com.intellij.execution.impl.RunDialog.0.0.1920.1200" x="781" y="283" />
@@ -10,6 +11,9 @@
     <location key="#com.intellij.ide.macro.MacrosDialog.0.0.1920.1200" x="747" y="287" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1200" x="681" y="400" />
     <location key="#com.intellij.tools.OutputFiltersDialog.0.0.1920.1200" x="747" y="437" />
+    <location key="IdeErrosDialog.0.0.1920.1200" x="647" y="259" />
+    <location key="NotificationsPopup" x="670" y="395" />
+    <size key="IdeErrosDialog" width="626" height="636" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1200" width="635" height="586" />
     <size key="#com.intellij.codeInsight.template.impl.EditTemplateDialog.0.0.1920.1200" width="526" height="446" />
     <size key="#com.intellij.ide.bookmarks.EditorBookmarksDialog.0.0.1920.1200" width="634" height="276" />
@@ -19,12 +23,15 @@
     <size key="#com.intellij.ide.macro.MacrosDialog.0.0.1920.1200" width="426" height="586" />
     <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1200" width="534" height="352" />
     <size key="#com.intellij.tools.OutputFiltersDialog.0.0.1920.1200" width="426" height="286" />
+    <size key="IdeErrosDialog.0.0.1920.1200" width="626" height="636" />
+    <size key="NotificationsPopup" width="578" height="380" />
   </component>
   <component name="LafManager">
     <laf class-name="com.incors.plaf.alloy.AlloyBedouin" />
   </component>
   <component name="PropertiesComponent">
     <property name="runConfigurationTab.dividerProportion" value="0.2" />
+    <property name="IMMEDIATE_FATAL_ERROR_POPUP" value="false" />
     <property name="Ruby.initialConfigurationShown" value="true" />
     <property name="FileTemplates.CurrentTab" value="Templates" />
     <property name="FileTemplates.SelectedTemplate" value="RSpec Test Template" />
