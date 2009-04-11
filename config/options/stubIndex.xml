@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FileBasedIndex">
+    <option name="registeredIndices">
+      <list>
+        <option value="js.qualified.shortName" />
+        <option value="Ruby.require.load.shortName" />
+        <option value="JS.class.super" />
+        <option value="js.element.qualifiedName" />
+        <option value="JS.class.implements" />
+        <option value="Ruby.class.module.shortName" />
+        <option value="Ruby.symbol.name" />
+        <option value="Ruby.method.name" />
+        <option value="Ruby.inheritance.shortName" />
+      </list>
+    </option>
+  </component>
+</application>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Ruby SDK 1.8.7 (/usr/local/bin/ruby)" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.8.7" />
+      <homePath value="/usr/local/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file:///usr/local/lib/ruby/site_ruby/1.8/i686-linux" />
+            <root type="simple" url="file:///usr/local/lib/ruby/site_ruby" />
+            <root type="simple" url="file:///usr/local/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file:///usr/local/lib/ruby/vendor_ruby/1.8/i686-linux" />
+            <root type="simple" url="file:///usr/local/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file:///usr/local/lib/ruby/1.8" />
+            <root type="simple" url="file:///usr/local/lib/ruby/1.8/i686-linux" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file:///usr/local/lib/ruby/site_ruby/1.8/i686-linux" />
+            <root type="simple" url="file:///usr/local/lib/ruby/site_ruby" />
+            <root type="simple" url="file:///usr/local/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file:///usr/local/lib/ruby/vendor_ruby/1.8/i686-linux" />
+            <root type="simple" url="file:///usr/local/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file:///usr/local/lib/ruby/1.8" />
+            <root type="simple" url="file:///usr/local/lib/ruby/1.8/i686-linux" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional GEMS_BIN_DIR_PATH="/usr/local/bin" />
+    </jdk>
+  </component>
+</application>
+

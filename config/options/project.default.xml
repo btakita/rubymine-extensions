@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectManager">
+    <defaultProject relativePaths="false" version="4">
+      <component name="CodeStyleSettingsManager">
+        <option name="PER_PROJECT_SETTINGS" />
+        <option name="USE_PER_PROJECT_SETTINGS" value="false" />
+      </component>
+      <component name="DaemonCodeAnalyzer">
+        <disable_hints />
+      </component>
+      <component name="DependencyValidationManager">
+        <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+      </component>
+      <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+        <list size="0" />
+      </component>
+      <component name="ProjectLevelVcsManager">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="ProjectModuleManager">
+        <modules />
+      </component>
+      <component name="ProjectReloadState">
+        <option name="STATE" value="0" />
+      </component>
+      <component name="ProjectRootManager" version="2" />
+      <component name="RunManager">
+        <list size="0" />
+      </component>
+      <component name="ShelveChangesManager" show_recycled="false" />
+      <component name="SvnConfiguration">
+        <option name="USER" value="" />
+        <option name="PASSWORD" value="" />
+        <option name="LAST_MERGED_REVISION" />
+        <option name="UPDATE_RUN_STATUS" value="false" />
+        <option name="MERGE_DRY_RUN" value="false" />
+        <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+        <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+        <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+        <option name="DETECT_NESTED_COPIES" value="true" />
+        <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+      </component>
+      <component name="VcsDirectoryMappings" defaultProject="true">
+        <mapping directory="" vcs="" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+        <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+        <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+        <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+        <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+        <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+        <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+        <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+        <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+        <option name="LAST_COMMIT_MESSAGE" />
+        <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+        <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+        <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+        <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+        <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+        <option name="ACTIVE_VCS_NAME" />
+        <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+        <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+        <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+        <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+      </component>
+      <component name="XDebuggerManager">
+        <breakpoint-manager />
+      </component>
+    </defaultProject>
+  </component>
+</application>
+

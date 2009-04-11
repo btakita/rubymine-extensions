@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="AR PL UMing CN" />
+    <option name="RECENT_FILES_LIMIT" value="20" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="20" />
+  </component>
+</application>
+

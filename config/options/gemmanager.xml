@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="GemManagerSettings">
+    <myPrecious>
+      <box url="file:///home/btakita/.gem/ruby/1.8/gems" />
+      <box url="file:///usr/local/lib/ruby/gems/1.8/gems" />
+    </myPrecious>
+    <sdk2gems>
+      <sdk2gem sdk="Ruby SDK 1.8.7 (/usr/local/bin/ruby)">
+        <gemBox url="file:///home/btakita/.gem/ruby/1.8/gems" />
+        <gemBox url="file:///usr/local/lib/ruby/gems/1.8/gems" />
+      </sdk2gem>
+    </sdk2gems>
+  </component>
+</application>
+
