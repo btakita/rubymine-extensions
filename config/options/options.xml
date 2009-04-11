@@ -3,6 +3,7 @@
   <component name="DimensionService">
     <location key="OptionsEditor.0.0.1920.1200" x="0" y="275" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1200" x="681" y="400" />
+    <size key="OptionsEditor.0.0.1920.1200" width="1920" height="600" />
   </component>
   <component name="LafManager">
     <laf class-name="com.incors.plaf.alloy.AlloyBedouin" />

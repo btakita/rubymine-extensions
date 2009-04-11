@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <versions>
-  <component name="CodeStyleSchemes" version="1239470130541" />
-  <component name="CodeStyleSettingsManager" version="1239470130544" />
-  <component name="DimensionService" version="1239475191971" />
-  <component name="EditorColorsManagerImpl" version="1239475119931" />
-  <component name="EditorSettings" version="1239475119932" />
+  <component name="CodeInsightSettings" version="1239476252323" />
+  <component name="CodeStyleSchemes" version="1239476252324" />
+  <component name="CodeStyleSettingsManager" version="1239476252325" />
+  <component name="DaemonCodeAnalyzerSettings" version="1239476252325" />
+  <component name="DimensionService" version="1239476252325" />
+  <component name="EditorColorsManagerImpl" version="1239476252325" />
+  <component name="EditorSettings" version="1239476252327" />
+  <component name="Encoding" version="1239476252327" />
   <component name="FeatureUsageStatistics" version="1239475119933" />
-  <component name="FileBasedIndex" version="1239470130551" />
-  <component name="FileTypeManager" version="1239475191974" />
+  <component name="FileBasedIndex" version="1239476252327" />
+  <component name="FileTypeManager" version="1239476252333" />
   <component name="FindSettings" version="1239475191975" />
-  <component name="GemManagerSettings" version="1239474740123" />
-  <component name="GeneralSettings" version="1239475171473" />
-  <component name="HttpConfigurable" version="1239475119936" />
-  <component name="InspectionProfileManager" version="1239475119937" />
-  <component name="KeymapManager" version="1239470130562" />
-  <component name="LafManager" version="1239470130562" />
-  <component name="PluginManagerConfigurable" version="1239475119938" />
-  <component name="ProjectManager" version="1239474740135" />
-  <component name="PropertiesComponent" version="1239475119945" />
-  <component name="TodoConfiguration" version="1239470130567" />
-  <component name="UISettings" version="1239475119953" />
-  <component name="UpdatesConfigurable" version="1239470130568" />
-  <component name="WindowManager" version="1239475497427" />
+  <component name="GemManagerSettings" version="1239476252334" />
+  <component name="GeneralSettings" version="1239476252334" />
+  <component name="HttpConfigurable" version="1239476252334" />
+  <component name="InspectionProfileManager" version="1239476252334" />
+  <component name="KeymapManager" version="1239476252334" />
+  <component name="LafManager" version="1239476252334" />
+  <component name="PluginManagerConfigurable" version="1239476252338" />
+  <component name="ProjectJdkTable" version="1239476252339" />
+  <component name="ProjectManager" version="1239476252339" />
+  <component name="PropertiesComponent" version="1239476252339" />
+  <component name="RecentDirectoryProjectsManager" version="1239476252339" />
+  <component name="TodoConfiguration" version="1239476252340" />
+  <component name="UISettings" version="1239476252341" />
+  <component name="UpdatesConfigurable" version="1239476252342" />
+  <component name="WebBrowsersConfiguration" version="1239476252342" />
+  <component name="WindowManager" version="1239476252343" />
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" version="1239476252372" />
 </versions>
 
