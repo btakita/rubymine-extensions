@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="DimensionService">
+    <location key="#com.intellij.ide.bookmarks.EditorBookmarksDialog.0.0.1920.1200" x="643" y="439" />
+    <location key="#com.intellij.execution.impl.RunDialog.0.0.1920.1200" x="781" y="283" />
     <location key="#com.intellij.codeInsight.template.impl.EditTemplateDialog.0.0.1920.1200" x="697" y="353" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1200" x="647" y="408" />
     <location key="OptionsEditor.0.0.1920.1200" x="0" y="275" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1200" x="681" y="400" />
-    <size key="OptionsEditor.0.0.1920.1200" width="1920" height="600" />
+    <size key="#com.intellij.ide.bookmarks.EditorBookmarksDialog.0.0.1920.1200" width="634" height="276" />
+    <size key="#com.intellij.execution.impl.RunDialog.0.0.1920.1200" width="635" height="588" />
+    <size key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1200" width="626" height="342" />
+    <size key="OptionsEditor.0.0.1920.1200" width="1920" height="602" />
   </component>
   <component name="LafManager">
     <laf class-name="com.incors.plaf.alloy.AlloyBedouin" />
   </component>
   <component name="PropertiesComponent">
+    <property name="runConfigurationTab.dividerProportion" value="0.2" />
     <property name="Ruby.initialConfigurationShown" value="true" />
     <property name="FileTemplates.CurrentTab" value="Templates" />
     <property name="FileTemplates.SelectedTemplate" value="RSpec Test Template" />

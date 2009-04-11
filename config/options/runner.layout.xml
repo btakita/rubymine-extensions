@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="RunnerLayoutSettings">
+    <runner id="JavaRunner">
+      <ViewImpl>
+        <option name="ID" value="Console" />
+        <option name="minimizedInGrid" value="false" />
+        <option name="placeInGrid" value="bottom" />
+        <option name="tabIndex" value="0" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="bottomDetached" value="false" />
+        <option name="bottomProportion" value="0.0" />
+        <option name="centerDetached" value="false" />
+        <option name="displayName" />
+        <option name="index" value="0" />
+        <option name="leftDetached" value="false" />
+        <option name="leftProportion" value="0.2" />
+        <option name="rightDetached" value="false" />
+        <option name="rightProportion" value="0.2" />
+      </TabImpl>
+      <General>
+        <option name="horizontalToolbar" value="false" />
+        <option name="selectedTab" value="0" />
+        <option name="focusOnCondition">
+          <map />
+        </option>
+      </General>
+    </runner>
+  </component>
+</application>
+
