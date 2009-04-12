@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <keymap version="1" name="custom" parent="$default">
+  <action id="FileChooser.NewFolder" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift control alt N" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="control N" />
+  </action>
   <action id="Tool_ruby_Ruby">
     <keyboard-shortcut first-keystroke="control F11" />
   </action>
