@@ -18,7 +18,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="it" value="it &quot;$DOES_SOME_COOL_STUFF$&quot;" description="it" toReformat="true" toShortenFQNames="true">
+  <template name="it" value="it &quot;$DOES_SOME_COOL_STUFF$&quot; do&#10;  $END$&#10;end" description="it" toReformat="true" toShortenFQNames="true">
     <variable name="DOES_SOME_COOL_STUFF" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="false" />
@@ -35,7 +35,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="itt" value="it &quot;$DOES_SOMETHING$ do&#10;  $END$&#10;end" description="rspec it with a block" toReformat="false" toShortenFQNames="true">
+  <template name="pit" value="it &quot;$DOES_SOMETHING$&quot;" description="pending rspec it without a block" toReformat="false" toShortenFQNames="true">
     <variable name="DOES_SOMETHING" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="false" />
