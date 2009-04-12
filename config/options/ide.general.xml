@@ -5,7 +5,7 @@
     <option name="lastTip" value="1" />
     <option name="showTipsOnStartup" value="false" />
     <option name="showOccupiedMemory" value="false" />
-    <option name="reopenLastProject" value="true" />
+    <option name="reopenLastProject" value="false" />
     <option name="autoSyncFiles" value="true" />
     <option name="autoSaveFiles" value="true" />
     <option name="autoSaveIfInactive" value="true" />

@@ -3,9 +3,12 @@
   <component name="FileTypeManager" version="5">
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;" />
     <extensionMap>
+      <mapping pattern="CHANGES" type="PLAIN_TEXT" />
       <mapping ext="rdoc" type="PLAIN_TEXT" />
       <mapping ext="gitignore" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
+      <mapping pattern="focused-test" type="Ruby" />
+      <mapping ext="gemspec" type="Ruby" />
     </extensionMap>
   </component>
 </application>

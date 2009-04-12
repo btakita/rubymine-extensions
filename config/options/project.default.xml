@@ -35,6 +35,12 @@
         <option name="STATE" value="0" />
       </component>
       <component name="ProjectRootManager" version="2" />
+      <component name="PropertiesComponent">
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.lastSelected" value="preferences.externalTools" />
+        <property name="options.searchVisible" value="true" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+      </component>
       <component name="RunManager">
         <list size="0" />
       </component>
