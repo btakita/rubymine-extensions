@@ -5,3 +5,5 @@ config/options/appComponentVersions.xml
 config/options/applicationLibraries.xml
 config/options/other.xml
 config/options/feature.usage.statistics.xml
+config/options/options.xml
+config/options/browsers.xml
