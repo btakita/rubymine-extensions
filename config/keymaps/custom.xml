@@ -7,6 +7,12 @@
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="control N" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="PreviousEditorTab" />
   <action id="Tool_ruby_Ruby">
     <keyboard-shortcut first-keystroke="control F11" />
   </action>
