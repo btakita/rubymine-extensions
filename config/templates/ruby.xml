@@ -89,5 +89,16 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
+  <template name="l" value="lambda do&#10;  $END$&#10;end" description="lambda" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="RUBY" value="true" />
+      <option name="RHTML" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
 </templateSet>
 
