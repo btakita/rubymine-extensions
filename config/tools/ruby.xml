@@ -4,28 +4,28 @@
     <exec>
       <option name="COMMAND" value="ruby" />
       <option name="PARAMETERS" value="$FilePath$" />
-      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="focused test/spec" description="Run a focused spec using provided focused_spec.rb" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="ruby" />
       <option name="PARAMETERS" value="-e &quot;require 'rubygems'; gem 'btakita-focused-test', '&gt;=0.2.0'; require 'focused_test'; FocusedTest.run('--file', '$FilePath$', '--line', '$LineNumber$', '-b')&quot;" />
-      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="test/spec --drb" description="Run spec with the drb option" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="ruby" />
       <option name="PARAMETERS" value="~/.RubyMine10/config/lib/focused_test.rb -f $FilePath$ --drb" />
-      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="focused test/spec --drb" description="focused test or spec using drb" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="ruby" />
       <option name="PARAMETERS" value="-e &quot;require 'rubygems'; gem 'btakita-focused-test', '&gt;=0.2.0'; require 'focused_test'; FocusedTest.run('--file', '$FilePath$', '--line', '$LineNumber$', '-b', '--drb')&quot;" />
-      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
