@@ -6,9 +6,11 @@
       <mapping pattern="CHANGES" type="PLAIN_TEXT" />
       <mapping ext="rdoc" type="PLAIN_TEXT" />
       <mapping ext="gitignore" type="PLAIN_TEXT" />
+      <mapping ext="markdown" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
       <mapping pattern="focused-test" type="Ruby" />
-      <mapping ext="gemspec" type="Ruby" />
+      <mapping pattern="apdex" type="Ruby" />
+      <mapping pattern="apdex_from_log" type="Ruby" />
     </extensionMap>
   </component>
 </application>
