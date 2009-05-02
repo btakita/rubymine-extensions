@@ -34,7 +34,7 @@
       <component name="ProjectReloadState">
         <option name="STATE" value="0" />
       </component>
-      <component name="ProjectRootManager" version="2" />
+      <component name="ProjectRootManager" version="2" project-jdk-name="Ruby SDK 1.8.7 (/usr/local/bin/ruby)" project-jdk-type="RUBY_SDK" />
       <component name="PropertiesComponent">
         <property name="options.splitter.main.proportions" value="0.3" />
         <property name="options.lastSelected" value="preferences.externalTools" />

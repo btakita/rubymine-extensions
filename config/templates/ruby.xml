@@ -125,5 +125,27 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
+  <template name="erb" value="&lt;% $END$ %&gt;" description="erb tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="RUBY" value="false" />
+      <option name="RHTML" value="true" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="erbe" value="&lt;%= $END$ %&gt;" description="&lt;%=  %&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="RUBY" value="false" />
+      <option name="RHTML" value="true" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
 </templateSet>
 

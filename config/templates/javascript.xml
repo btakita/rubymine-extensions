@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="javascript">
+  <template name="cd" value="console.debug($END$);" description="console.debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="XML" value="false" />
+      <option name="RUBY" value="false" />
+      <option name="RHTML" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>
+

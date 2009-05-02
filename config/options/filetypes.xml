@@ -11,6 +11,9 @@
       <mapping pattern="focused-test" type="Ruby" />
       <mapping pattern="apdex" type="Ruby" />
       <mapping pattern="apdex_from_log" type="Ruby" />
+      <mapping pattern="screw_unit_server" type="Ruby" />
+      <mapping pattern="screw_unit" type="Ruby" />
+      <mapping pattern="spec_server" type="Ruby" />
     </extensionMap>
   </component>
 </application>
