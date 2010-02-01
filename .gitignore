@@ -7,3 +7,5 @@ config/options/other.xml
 config/options/feature.usage.statistics.xml
 config/options/options.xml
 config/options/browsers.xml
+.idea
+pmip
